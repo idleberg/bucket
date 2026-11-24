@@ -2,11 +2,11 @@
     "description": "Desktop app for Rinse.fm with advanced features",
     "homepage": "https://github.com/idleberg/rinse-m8",
     "license": "MIT",
-    "version": "0.26.2",
+    "version": "0.26.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/idleberg/rinse-m8/releases/download/v0.26.2/Rinse-M8_0.26.2_x64-setup.exe#/dl.7z",
-            "hash": "sha256:ef6b79345b242ed33f7f46e2c741180f4d62de617954163fa3e2b40ec0eb2ef0"
+            "url": "https://github.com/idleberg/rinse-m8/releases/download/v0.26.4/Rinse-M8_0.26.4_x64-setup.exe#/dl.7z",
+            "hash": "sha256:a8a48250688c32c087158b074145c6fa9f9173f58950525df9f631569dcc00b1"
         }
     },
     "installer": {

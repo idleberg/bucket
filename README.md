@@ -1,4 +1,4 @@
-# idlebeg/bucket
+# idleberg/bucket
 
 Scoop bucket for some of my software
 
